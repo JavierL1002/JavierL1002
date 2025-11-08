@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9xbsgHl/giphy.gif" width="100"/>
-  <h1>¡Hola! Soy **Javier** 🚀</h1>
+  <h1>¡Hola! Soy Javier 🚀</h1>
   <h3>✨ Economista | Data Scientist | Machine Learning Enthusiast ✨</h3>
 </div>
 
